@@ -5,3 +5,5 @@
 - Mohamed Taher https://github.com/hdathert/Schattenwald_Storytime/pull/11
 
 - Ali Mohamed https://github.com/mkrasnik2001/lorelei-ice-breaker/pull/5
+
+- Tony Malk https://github.com/kjaskiew2000/storyTimeSER316/pull/3
